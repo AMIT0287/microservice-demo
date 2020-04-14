@@ -1,0 +1,17 @@
+package self.learn.microservices.limitService;
+
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import self.learn.microservices.limitService.bean.LimitConfigurationBean;
+
+@RestController
+public class LimitServiceController {
+	
+	
+	@GetMapping("/limits")
+	public LimitConfigurationBean getConfigurationBean() {
+		
+	}
+
+}
