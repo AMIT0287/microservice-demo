@@ -1,0 +1,2 @@
+06-Jul-2020 00:00:01.876 INFO [http-nio-8080-exec-10] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+06-Jul-2020 00:00:17.393 INFO [http-nio-8080-exec-5] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'dispatcherServlet'

@@ -1,0 +1,45 @@
+05-Jul-2020 23:51:59.647 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.36
+05-Jul-2020 23:51:59.653 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 3 2020 17:07:09 UTC
+05-Jul-2020 23:51:59.653 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.36.0
+05-Jul-2020 23:51:59.654 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+05-Jul-2020 23:51:59.654 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+05-Jul-2020 23:51:59.654 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+05-Jul-2020 23:51:59.655 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_241\jre
+05-Jul-2020 23:51:59.655 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_241-b07
+05-Jul-2020 23:51:59.655 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+05-Jul-2020 23:51:59.655 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Chatt\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\apache-tomcat-9.0.36
+05-Jul-2020 23:51:59.656 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\Chatt\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\apache-tomcat-9.0.36
+05-Jul-2020 23:51:59.658 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:/Users/Chatt/Documents/workspace-spring-tool-suite-4-4.5.1.RELEASE/apache-tomcat-9.0.36/conf/logging.properties
+05-Jul-2020 23:51:59.658 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+05-Jul-2020 23:51:59.659 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+05-Jul-2020 23:51:59.659 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+05-Jul-2020 23:51:59.659 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+05-Jul-2020 23:51:59.659 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+05-Jul-2020 23:51:59.660 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:/Users/Chatt/Documents/workspace-spring-tool-suite-4-4.5.1.RELEASE/apache-tomcat-9.0.36
+05-Jul-2020 23:51:59.660 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:/Users/Chatt/Documents/workspace-spring-tool-suite-4-4.5.1.RELEASE/apache-tomcat-9.0.36
+05-Jul-2020 23:51:59.660 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:/Users/Chatt/Documents/workspace-spring-tool-suite-4-4.5.1.RELEASE/apache-tomcat-9.0.36/temp
+05-Jul-2020 23:51:59.660 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.24] using APR version [1.7.0].
+05-Jul-2020 23:51:59.661 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+05-Jul-2020 23:51:59.663 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+05-Jul-2020 23:51:59.674 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1g  21 Apr 2020]
+05-Jul-2020 23:52:00.853 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+05-Jul-2020 23:52:01.420 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [2,320] milliseconds
+05-Jul-2020 23:52:01.487 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+05-Jul-2020 23:52:01.488 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.36]
+05-Jul-2020 23:52:01.512 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Chatt\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\apache-tomcat-9.0.36\webapps\docs]
+05-Jul-2020 23:52:02.127 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Chatt\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\apache-tomcat-9.0.36\webapps\docs] has finished in [615] ms
+05-Jul-2020 23:52:02.128 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Chatt\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\apache-tomcat-9.0.36\webapps\examples]
+05-Jul-2020 23:52:03.269 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Chatt\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\apache-tomcat-9.0.36\webapps\examples] has finished in [1,141] ms
+05-Jul-2020 23:52:03.270 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Chatt\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\apache-tomcat-9.0.36\webapps\host-manager]
+05-Jul-2020 23:52:03.367 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Chatt\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\apache-tomcat-9.0.36\webapps\host-manager] has finished in [97] ms
+05-Jul-2020 23:52:03.368 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Chatt\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\apache-tomcat-9.0.36\webapps\manager]
+05-Jul-2020 23:52:03.442 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Chatt\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\apache-tomcat-9.0.36\webapps\manager] has finished in [75] ms
+05-Jul-2020 23:52:03.443 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Chatt\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\apache-tomcat-9.0.36\webapps\ROOT]
+05-Jul-2020 23:52:03.509 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Chatt\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\apache-tomcat-9.0.36\webapps\ROOT] has finished in [67] ms
+05-Jul-2020 23:52:03.518 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+05-Jul-2020 23:52:03.537 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [2,115] milliseconds
+05-Jul-2020 23:52:59.818 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+05-Jul-2020 23:52:59.819 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+05-Jul-2020 23:53:00.321 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+05-Jul-2020 23:53:00.372 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+05-Jul-2020 23:53:00.377 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]

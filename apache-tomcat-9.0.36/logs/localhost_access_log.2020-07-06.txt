@@ -1,0 +1,8 @@
+0:0:0:0:0:0:0:1 - admin [06/Jul/2020:00:00:04 +0530] "POST /manager/html/reload?path=/spring-boot-test-external-tomcat-0.0.1-SNAPSHOT&org.apache.catalina.filters.CSRF_NONCE=6F90398B0CA96042C0F86C0602D90D42 HTTP/1.1" 200 20243
+0:0:0:0:0:0:0:1 - - [06/Jul/2020:00:00:17 +0530] "GET /spring-boot-test-external-tomcat-0.0.1-SNAPSHOT/ HTTP/1.1" 404 286
+0:0:0:0:0:0:0:1 - - [06/Jul/2020:00:01:02 +0530] "GET /spring-boot-test-external-tomcat-0.0.1-SNAPSHOT/springboot/test/ext/servers/jboss HTTP/1.1" 200 11
+0:0:0:0:0:0:0:1 - - [06/Jul/2020:00:01:09 +0530] "GET /spring-boot-test-external-tomcat-0.0.1-SNAPSHOT/springboot/test/ext/servers/tomcat HTTP/1.1" 200 12
+0:0:0:0:0:0:0:1 - - [06/Jul/2020:00:13:37 +0530] "GET / HTTP/1.1" 200 11415
+0:0:0:0:0:0:0:1 - admin [06/Jul/2020:00:15:14 +0530] "GET /manager/html HTTP/1.1" 200 20147
+0:0:0:0:0:0:0:1 - - [06/Jul/2020:00:22:34 +0530] "GET /spring-boot-test-external-tomcat-0.0.1-SNAPSHOT/ HTTP/1.1" 404 286
+0:0:0:0:0:0:0:1 - - [06/Jul/2020:00:22:50 +0530] "GET /spring-boot-test-external-tomcat-0.0.1-SNAPSHOT/springboot/test/ext/servers/jboss HTTP/1.1" 200 11
